@@ -35,5 +35,4 @@ var right = (100-cur-2);
 leftPane.style.width = cur + '%';
 rightPane.style.width = right + '%';
 
-}, null, 'horizontal');
-
+}, null, 'horizontal'); 
