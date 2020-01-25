@@ -1,4 +1,3 @@
-
 var leftPane = document.getElementById('left-pane');
 var rightPane = document.getElementById('right-pane');
 var paneSep = document.getElementById('panes-separator');
@@ -37,3 +36,4 @@ leftPane.style.width = cur + '%';
 rightPane.style.width = right + '%';
 
 }, null, 'horizontal');
+
